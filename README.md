@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Break The Ice With Python
 
 ### A journey of 100+ simple yet interesting problems which are explained, solved, discussed in different pythonic ways
@@ -92,4 +93,6 @@
 
 * **[Day 24](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_24.md "Day 24 Status")**- ***Question 100-103***
 
+=======
+>>>>>>> 9903453096c31e4cac612895da9293533a46c354
 
